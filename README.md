@@ -1,32 +1,30 @@
-<h1 align="center">Hi, I'm Haoyang Zeng 👋</h1>
+<h1 align="center">Haoyang Zeng</h1>
 
 <p align="center">
-  <em>Software Engineer · Boston, MA</em>
+  Software Engineer &nbsp;|&nbsp; Boston, MA &nbsp;|&nbsp; UC Berkeley
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthurzeng/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/arthurzengg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm a Software Engineer based in **Boston, MA**, with a B.S. from the **University of California, Berkeley**. I enjoy building scalable systems, exploring AI/ML applications, and turning ideas into polished products.
+B.S. Computer Science, University of California, Berkeley.
+Currently working as a Software Engineer in Boston, MA.
 
-- 🎓 **B.S. Computer Science** — UC Berkeley
-- 💼 **Software Engineer** — Boston, MA
-- 🌱 Currently deepening my expertise in distributed systems and AI agents
-- 🤝 Open to collaborating on interesting open-source projects
+Interests: distributed systems, backend infrastructure, applied machine learning, and AI agents.
 
 ---
 
-## Tech Stack
+## Skills
 
 **Languages**
 
@@ -61,25 +59,8 @@ I'm a Software Engineer based in **Boston, MA**, with a B.S. from the **Universi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzengg&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurzengg&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
-</p>
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [ExamHelper](https://github.com/arthurzengg/arthurzengg) | AI-powered exam preparation tool with code editor support | Python · Flask · React |
-| [Stock Prediction](https://github.com/arthurzengg/arthurzengg) | ML-based stock trend forecasting | Python · NumPy · Scikit-learn |
-| [PDF Translator](https://github.com/arthurzengg/arthurzengg) | Automated multilingual PDF translation pipeline | Python · OpenAI API |
-| [Finance AI Agents](https://github.com/arthurzengg/arthurzengg) | Multi-agent framework for financial data analysis | Python · LangChain |
-
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arthurzengg&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-
-<p align="center"><em>"Build things that matter."</em></p>

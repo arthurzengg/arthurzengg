@@ -17,10 +17,8 @@
 
 ## About
 
-B.S. Computer Science, University of California, Berkeley.
+Graduated from University of California, Berkeley.
 Currently working as a Software Engineer in Boston, MA.
-
-Interests: distributed systems, backend infrastructure, applied machine learning, and AI agents.
 
 ---
 

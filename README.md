@@ -29,8 +29,3 @@ Currently working as a Software Engineer in Boston, MA.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzengg&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arthurzengg&style=flat-square&color=blue" alt="Profile Views"/>
-</p>

@@ -22,6 +22,16 @@ Currently working as a Software Engineer in Boston, MA.
 
 ---
 
+## Featured
+
+<p align="center">
+  <a href="https://github.com/arthurzengg/opencui" target="_blank">
+    <img src="https://github-readme-stats-black-rho-99.vercel.app/api/pin/?username=arthurzengg&repo=opencui&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="opencui"/>
+  </a>
+</p>
+
+---
+
 ## GitHub Stats
 
 <p align="center">

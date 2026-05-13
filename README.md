@@ -25,7 +25,7 @@ Currently working as a Software Engineer in Boston, MA.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurzengg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzengg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats-black-rho-99.vercel.app/api?username=arthurzengg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-black-rho-99.vercel.app/api/top-langs/?username=arthurzengg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="Top Languages"/>
 </p>
 

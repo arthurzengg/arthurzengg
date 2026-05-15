@@ -30,6 +30,18 @@ Currently working as a Software Engineer in Boston, MA.
   </a>
 </p>
 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=haoyangzeng.opencui" target="_blank">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/haoyangzeng.opencui?style=flat-square&logo=visualstudiocode&logoColor=white&label=Version&color=007ACC" alt="Version"/>
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=haoyangzeng.opencui" target="_blank">
+    <img src="https://img.shields.io/visual-studio-marketplace/i/haoyangzeng.opencui?style=flat-square&logo=visualstudiocode&logoColor=white&label=Installs&color=007ACC" alt="Installs"/>
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=haoyangzeng.opencui" target="_blank">
+    <img src="https://img.shields.io/visual-studio-marketplace/r/haoyangzeng.opencui?style=flat-square&logo=visualstudiocode&logoColor=white&label=Rating&color=007ACC" alt="Rating"/>
+  </a>
+</p>
+
 ---
 
 ## GitHub Stats

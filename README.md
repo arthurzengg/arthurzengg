@@ -32,13 +32,13 @@ Currently working as a Software Engineer in Boston, MA.
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=haoyangzeng.opencui" target="_blank">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/haoyangzeng.opencui?style=flat-square&logo=visualstudiocode&logoColor=white&label=Version&color=007ACC" alt="Version"/>
+    <img src="https://vsmarketplacebadges.dev/version-short/haoyangzeng.opencui.svg" alt="Version"/>
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=haoyangzeng.opencui" target="_blank">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/haoyangzeng.opencui?style=flat-square&logo=visualstudiocode&logoColor=white&label=Installs&color=007ACC" alt="Installs"/>
+    <img src="https://vsmarketplacebadges.dev/installs-short/haoyangzeng.opencui.svg" alt="Installs"/>
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=haoyangzeng.opencui" target="_blank">
-    <img src="https://img.shields.io/visual-studio-marketplace/r/haoyangzeng.opencui?style=flat-square&logo=visualstudiocode&logoColor=white&label=Rating&color=007ACC" alt="Rating"/>
+    <img src="https://vsmarketplacebadges.dev/downloads-short/haoyangzeng.opencui.svg" alt="Downloads"/>
   </a>
 </p>
 

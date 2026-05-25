@@ -41,7 +41,7 @@ Currently working as a Software Engineer in Boston, MA.
     <img src="https://vsmarketplacebadges.dev/downloads-short/haoyangzeng.opencui.svg" alt="Downloads"/>
   </a>
   <a href="https://open-vsx.org/extension/haoyangzeng/opencui" target="_blank">
-    <img src="https://img.shields.io/open-vsx/dt/haoyangzeng/opencui" alt="Open VSX Downloads"/>
+    <img src="https://img.shields.io/open-vsx/dt/haoyangzeng/opencui?label=Open%20VSX" alt="Open VSX Downloads"/>
   </a>
 </p>
 
